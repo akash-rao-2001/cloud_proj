@@ -1,7 +1,7 @@
-###Prerequisite
-#Have Fog and Pure Edge Simulator installed.
+__Prerequisite__:
+Have Fog and Pure Edge Simulator installed.
 
-###Example
+__Example__:
 ![Screenshot (238)](https://user-images.githubusercontent.com/77489041/205543125-35b2b710-1ca7-47bc-88ee-0baf011452ba.png)
 ![Screenshot (239)](https://user-images.githubusercontent.com/77489041/205543141-92861c73-497e-4c4c-909d-e9a7f747796c.png)
 ![Screenshot (240)](https://user-images.githubusercontent.com/77489041/205543148-2f93a147-fb3f-438c-8d79-d66e9d3a007c.png)
